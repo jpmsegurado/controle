@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">Controle de Estoque</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="produtos_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+
+
+    <string-array name="produtos_nome">
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+        <item>Coca-cola</item>
+        <item>Guaraná</item>
+        <item>Fanta</item>
+    </string-array>
+
+    <string-array name="produtos_foto">
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+        <item>coca-2l.jpg</item>
+        <item>guarana.jpg</item>
+        <item>fanta.jpg</item>
+    </string-array>
+
+    <string-array name="menu">
+        <item>Ver transações</item>
+        <item>Registrar entrada</item>
+        <item>Registrar saída</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

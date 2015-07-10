@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.autzon.controledeestoque.view.TransacoesFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Não há transações recentes"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:layout_marginTop="100dp"
+        android:textStyle="bold"
+        android:id="@+id/txv"
+        />
+
+    <ListView
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:id="@+id/list"
+        />
+
+</LinearLayout>
